@@ -1,0 +1,44 @@
+[
+  {
+    "id": "leandro",
+    "name": "Leandro",
+    "host": "gf.zt.net.br",
+    "port": 5958,
+    "description": "Conexão de Acesso Remoto Leandro (Porta 5958 / Tailcat 5500)",
+    "category": "Geral",
+    "auto_terminate": false,
+    "favorite": false,
+    "last_accessed": null,
+    "tailcat_ticket": "tcpGFwWCBEhVeX6aF5Q-SYY0Ji8K9WLN6JJxSmvQTK3--L-JlFJmFrWCCkGSj2O3eGtglyyPIto-Pr-UREfZI-MRs67ku8_LbBAGFxWCCwakSTbzUfTb1XejhMCCRBdMBNttV03NKGfIqXvKNv3WFpGQEt",
+    "tailcat_port_map": "5500:5500",
+    "force_tailcat": false
+  },
+  {
+    "id": "hugo",
+    "name": "Hugo",
+    "host": "gf.zt.net.br",
+    "port": 5957,
+    "description": "Conexão de Acesso Remoto Hugo (Porta 5957)",
+    "category": "Geral",
+    "auto_terminate": false,
+    "favorite": false,
+    "last_accessed": null,
+    "tailcat_ticket": null,
+    "tailcat_port_map": null,
+    "force_tailcat": false
+  },
+  {
+    "id": "zenit",
+    "name": "Zenit",
+    "host": "gf.zt.net.br",
+    "port": 5959,
+    "description": "Conexão de Acesso Remoto Zenit (Porta 5959 / Tailcat 5500)",
+    "category": "Geral",
+    "auto_terminate": false,
+    "favorite": false,
+    "last_accessed": null,
+    "tailcat_ticket": "tcpGFwWCB3n3Bl5MQI03CP7GK3V3BL3aeCpVjmLnYg0FD4-9IkQGFrWCAnav1xcdyp9fjykBOQoFsMq3lB_gcD4RRiF_z-aT5iCmFxWCBD3fKoC7cgnqxt4lOVtaDRRQUZtprgFZ_NghDFCT6iaGFpGQEt",
+    "tailcat_port_map": "5500:5500",
+    "force_tailcat": false
+  }
+]
